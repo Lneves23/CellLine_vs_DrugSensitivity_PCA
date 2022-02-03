@@ -1,0 +1,14 @@
+name: DrugCellLineSensitivity_PCAVisualizer
+title: DrugCellLineSensitivity_PCAVisualizer
+username:
+account: lauren-neves
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5431084
+bundleId: 5535968
+url: https://lauren-neves.shinyapps.io/DrugCellLineSensitivity_PCAVisualizer/
+when: 1643826437.66433
+lastSyncTime: 1643826437.66434
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_v11_improvingValidations.R
