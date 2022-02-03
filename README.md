@@ -6,7 +6,7 @@ Developed by Lauren Neves (lneves23) and Srivats Venkataramanan (srivats-venkat)
 
 Hosted at:
 
-https://lauren-neves.shinyapps.io/EC50Calculator/
+https://lauren-neves.shinyapps.io/DrugCellLineSensitivity_PCAVisualizer/
 
 This Shiny app takes a list of cancer cell line specific IC50 values for a single drug candidate and returns an interactive principle component analysis (PCA) of compounds included in the GDSC database.
 
